@@ -1,0 +1,209 @@
+2026-08-29 11:41:03,349 | INFO | Created new transcript.
+2026-08-29 11:41:03,349 | INFO | Created argument ledger.
+2026-08-29 11:41:03,350 | INFO | Created new debate state.
+2026-08-29 11:41:03,350 | INFO | Checking Ollama...
+2026-08-29 11:41:03,354 | INFO | Ollama connection successful.
+2026-08-29 11:41:03,357 | INFO | Starting round 1
+2026-08-29 11:41:03,359 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-08-29 11:41:17,952 | INFO | Successful response from qwen3:8b (1053 characters)
+2026-08-29 11:41:17,952 | INFO | Attempting to unload model: qwen3:8b
+2026-08-29 11:41:19,734 | INFO | Verified model unloaded: qwen3:8b
+2026-08-29 11:41:19,735 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-08-29 11:41:32,916 | INFO | Successful response from llama3.1:latest (2090 characters)
+2026-08-29 11:41:32,917 | INFO | Attempting to unload model: llama3.1:latest
+2026-08-29 11:41:34,907 | INFO | Verified model unloaded: llama3.1:latest
+2026-08-29 11:41:34,908 | INFO | Round 1 completed.
+2026-08-29 11:41:34,908 | INFO | Starting round 2
+2026-08-29 11:41:34,909 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-08-29 11:41:48,183 | INFO | Successful response from qwen3:8b (1800 characters)
+2026-08-29 11:41:48,183 | INFO | Attempting to unload model: qwen3:8b
+2026-08-29 11:41:49,951 | INFO | Verified model unloaded: qwen3:8b
+2026-08-29 11:41:49,952 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-08-29 11:41:57,559 | INFO | Successful response from llama3.1:latest (2527 characters)
+2026-08-29 11:41:57,560 | INFO | Attempting to unload model: llama3.1:latest
+2026-08-29 11:41:59,508 | INFO | Verified model unloaded: llama3.1:latest
+2026-08-29 11:41:59,509 | INFO | Round 2 completed.
+2026-08-29 11:41:59,509 | INFO | Starting round 3
+2026-08-29 11:41:59,509 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-08-29 11:42:13,129 | ERROR | Model request failed: Ollama returned empty content
+2026-08-29 11:42:18,130 | INFO | Calling qwen3:8b (speaker_1) attempt 2/3
+2026-08-29 11:42:31,765 | INFO | Successful response from qwen3:8b (629 characters)
+2026-08-29 11:42:31,766 | INFO | Attempting to unload model: qwen3:8b
+2026-08-29 11:42:33,534 | INFO | Verified model unloaded: qwen3:8b
+2026-08-29 11:42:33,536 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-08-29 11:42:43,666 | INFO | Successful response from llama3.1:latest (2943 characters)
+2026-08-29 11:42:43,668 | INFO | Attempting to unload model: llama3.1:latest
+2026-08-29 11:42:45,633 | INFO | Verified model unloaded: llama3.1:latest
+2026-08-29 11:42:45,634 | INFO | Round 3 completed.
+2026-08-29 11:42:45,635 | INFO | Starting round 4
+2026-08-29 11:42:45,635 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-08-29 11:42:59,509 | ERROR | Model request failed: Ollama returned empty content
+2026-08-29 11:43:04,510 | INFO | Calling qwen3:8b (speaker_1) attempt 2/3
+2026-08-29 11:43:18,167 | INFO | Successful response from qwen3:8b (1942 characters)
+2026-08-29 11:43:18,168 | INFO | Attempting to unload model: qwen3:8b
+2026-08-29 11:43:19,935 | INFO | Verified model unloaded: qwen3:8b
+2026-08-29 11:43:19,936 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-08-29 11:43:28,137 | INFO | Successful response from llama3.1:latest (2493 characters)
+2026-08-29 11:43:28,137 | INFO | Attempting to unload model: llama3.1:latest
+2026-08-29 11:43:30,090 | INFO | Verified model unloaded: llama3.1:latest
+2026-08-29 11:43:30,090 | INFO | Round 4 completed.
+2026-08-29 11:43:30,090 | INFO | Starting round 5
+2026-08-29 11:43:30,091 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-08-29 11:43:45,947 | INFO | Successful response from qwen3:8b (1704 characters)
+2026-08-29 11:43:45,947 | INFO | Attempting to unload model: qwen3:8b
+2026-08-29 11:43:47,718 | INFO | Verified model unloaded: qwen3:8b
+2026-08-29 11:43:47,720 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-08-29 11:43:57,126 | INFO | Successful response from llama3.1:latest (3219 characters)
+2026-08-29 11:43:57,126 | INFO | Attempting to unload model: llama3.1:latest
+2026-08-29 11:43:59,113 | INFO | Verified model unloaded: llama3.1:latest
+2026-08-29 11:43:59,114 | INFO | Round 5 completed.
+2026-08-29 11:43:59,114 | INFO | Starting neutral analysis at round 5
+2026-08-29 11:43:59,115 | INFO | Calling deepseek-coder-v2:latest (memory) attempt 1/3
+2026-08-29 11:44:29,263 | INFO | Successful response from deepseek-coder-v2:latest (4652 characters)
+2026-08-29 11:44:29,264 | INFO | Saved memory snapshot: /home/sunny/workspace/ai_debate/memory/summary_001.txt
+2026-08-29 11:44:29,264 | INFO | Neutral analysis completed. Memory version=1
+2026-08-29 11:44:29,264 | INFO | Attempting to unload model: deepseek-coder-v2:latest
+2026-08-29 11:44:31,296 | INFO | Verified model unloaded: deepseek-coder-v2:latest
+2026-08-29 11:44:31,297 | INFO | Starting round 6
+2026-08-29 11:44:31,297 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-08-29 11:44:47,274 | INFO | Successful response from qwen3:8b (1037 characters)
+2026-08-29 11:44:47,274 | INFO | Attempting to unload model: qwen3:8b
+2026-08-29 11:44:49,050 | INFO | Verified model unloaded: qwen3:8b
+2026-08-29 11:44:49,051 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-08-29 11:44:51,535 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:45:32,534 | INFO | Loaded state: round=6 status=speaker_2_thinking
+2026-09-02 12:45:32,534 | INFO | Checking Ollama...
+2026-09-02 12:45:32,551 | INFO | Ollama connection successful.
+2026-09-02 12:45:32,554 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:45:49,246 | INFO | Successful response from llama3.1:latest (1990 characters)
+2026-09-02 12:45:49,246 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:45:51,264 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:45:51,264 | INFO | Round 6 completed.
+2026-09-02 12:45:51,265 | INFO | Starting round 7
+2026-09-02 12:45:51,266 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:46:10,559 | INFO | Successful response from qwen3:8b (1075 characters)
+2026-09-02 12:46:10,560 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:46:12,348 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:46:12,350 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:47:30,489 | INFO | Created new transcript.
+2026-09-02 12:47:30,490 | INFO | Created argument ledger.
+2026-09-02 12:47:30,490 | INFO | Created new debate state.
+2026-09-02 12:47:30,490 | INFO | Checking Ollama...
+2026-09-02 12:47:30,496 | INFO | Ollama connection successful.
+2026-09-02 12:47:30,499 | INFO | Starting round 1
+2026-09-02 12:47:30,499 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:47:43,272 | INFO | Successful response from qwen3:8b (1156 characters)
+2026-09-02 12:47:43,273 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:47:45,083 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:47:45,084 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:47:58,774 | INFO | Successful response from llama3.1:latest (1812 characters)
+2026-09-02 12:47:58,775 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:48:00,781 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:48:00,781 | INFO | Round 1 completed.
+2026-09-02 12:48:00,782 | INFO | Starting round 2
+2026-09-02 12:48:00,782 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:48:14,593 | INFO | Successful response from qwen3:8b (2448 characters)
+2026-09-02 12:48:14,594 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:48:16,382 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:48:16,384 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:48:23,911 | INFO | Successful response from llama3.1:latest (2133 characters)
+2026-09-02 12:48:23,912 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:48:25,883 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:48:25,883 | INFO | Round 2 completed.
+2026-09-02 12:48:25,884 | INFO | Starting round 3
+2026-09-02 12:48:25,884 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:48:37,737 | INFO | Successful response from qwen3:8b (2058 characters)
+2026-09-02 12:48:37,738 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:48:39,531 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:48:39,533 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:48:48,358 | INFO | Successful response from llama3.1:latest (2211 characters)
+2026-09-02 12:48:48,359 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:48:50,343 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:48:50,343 | INFO | Round 3 completed.
+2026-09-02 12:48:50,344 | INFO | Starting round 4
+2026-09-02 12:48:50,344 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:49:05,187 | INFO | Successful response from qwen3:8b (1218 characters)
+2026-09-02 12:49:05,187 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:49:06,965 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:49:06,967 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:49:16,607 | INFO | Successful response from llama3.1:latest (2747 characters)
+2026-09-02 12:49:16,607 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:49:18,581 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:49:18,582 | INFO | Round 4 completed.
+2026-09-02 12:49:18,582 | INFO | Starting round 5
+2026-09-02 12:49:18,583 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:49:38,362 | INFO | Successful response from qwen3:8b (1169 characters)
+2026-09-02 12:49:38,363 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:49:40,145 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:49:40,147 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:49:48,317 | INFO | Successful response from llama3.1:latest (2280 characters)
+2026-09-02 12:49:48,318 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:49:50,294 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:49:50,295 | INFO | Round 5 completed.
+2026-09-02 12:49:50,295 | INFO | Starting neutral analysis at round 5
+2026-09-02 12:49:50,296 | INFO | Calling deepseek-coder-v2:latest (memory) attempt 1/3
+2026-09-02 12:50:20,741 | INFO | Successful response from deepseek-coder-v2:latest (4817 characters)
+2026-09-02 12:50:20,742 | INFO | Saved memory snapshot: /home/sunny/workspace/ai_debate/memory/summary_001.txt
+2026-09-02 12:50:20,742 | INFO | Neutral analysis completed. Memory version=1
+2026-09-02 12:50:20,742 | INFO | Attempting to unload model: deepseek-coder-v2:latest
+2026-09-02 12:50:22,832 | INFO | Verified model unloaded: deepseek-coder-v2:latest
+2026-09-02 12:50:22,833 | INFO | Starting round 6
+2026-09-02 12:50:22,834 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:50:40,129 | INFO | Successful response from qwen3:8b (946 characters)
+2026-09-02 12:50:40,130 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:50:41,910 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:50:41,911 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:50:57,344 | INFO | Successful response from llama3.1:latest (2545 characters)
+2026-09-02 12:50:57,344 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:50:59,301 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:50:59,301 | INFO | Round 6 completed.
+2026-09-02 12:50:59,302 | INFO | Starting round 7
+2026-09-02 12:50:59,303 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:51:14,018 | INFO | Successful response from qwen3:8b (1334 characters)
+2026-09-02 12:51:14,019 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:51:15,801 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:51:15,803 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:51:23,829 | INFO | Successful response from llama3.1:latest (2160 characters)
+2026-09-02 12:51:23,829 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:51:25,839 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:51:25,840 | INFO | Round 7 completed.
+2026-09-02 12:51:25,840 | INFO | Starting round 8
+2026-09-02 12:51:25,841 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:51:37,761 | INFO | Successful response from qwen3:8b (1118 characters)
+2026-09-02 12:51:37,761 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:51:39,566 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:51:39,567 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:51:49,801 | INFO | Successful response from llama3.1:latest (3664 characters)
+2026-09-02 12:51:49,802 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:51:51,836 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:51:51,836 | INFO | Round 8 completed.
+2026-09-02 12:51:51,837 | INFO | Starting round 9
+2026-09-02 12:51:51,838 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:52:09,695 | INFO | Successful response from qwen3:8b (1596 characters)
+2026-09-02 12:52:09,695 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:52:11,495 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:52:11,496 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:52:22,443 | INFO | Successful response from llama3.1:latest (3466 characters)
+2026-09-02 12:52:22,444 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:52:24,452 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:52:24,452 | INFO | Round 9 completed.
+2026-09-02 12:52:24,453 | INFO | Starting round 10
+2026-09-02 12:52:24,454 | INFO | Calling qwen3:8b (speaker_1) attempt 1/3
+2026-09-02 12:52:39,335 | INFO | Successful response from qwen3:8b (1161 characters)
+2026-09-02 12:52:39,335 | INFO | Attempting to unload model: qwen3:8b
+2026-09-02 12:52:41,133 | INFO | Verified model unloaded: qwen3:8b
+2026-09-02 12:52:41,135 | INFO | Calling llama3.1:latest (speaker_2) attempt 1/3
+2026-09-02 12:52:49,661 | INFO | Successful response from llama3.1:latest (2444 characters)
+2026-09-02 12:52:49,661 | INFO | Attempting to unload model: llama3.1:latest
+2026-09-02 12:52:51,634 | INFO | Verified model unloaded: llama3.1:latest
+2026-09-02 12:52:51,635 | INFO | Round 10 completed.
+2026-09-02 12:52:51,635 | INFO | Starting neutral analysis at round 10
+2026-09-02 12:52:51,636 | INFO | Calling deepseek-coder-v2:latest (memory) attempt 1/3
+2026-09-02 12:53:17,025 | INFO | Successful response from deepseek-coder-v2:latest (2443 characters)
+2026-09-02 12:53:17,026 | INFO | Saved memory snapshot: /home/sunny/workspace/ai_debate/memory/summary_002.txt
+2026-09-02 12:53:17,026 | INFO | Neutral analysis completed. Memory version=2
+2026-09-02 12:53:17,026 | INFO | Attempting to unload model: deepseek-coder-v2:latest
+2026-09-02 12:53:19,081 | INFO | Verified model unloaded: deepseek-coder-v2:latest
+2026-09-02 12:53:19,083 | INFO | Created checkpoint: /home/sunny/workspace/ai_debate/memory/checkpoint_001.json
+2026-09-02 12:53:19,083 | INFO | Maximum rounds reached.
+2026-09-02 12:53:19,083 | INFO | Performing final model cleanup.

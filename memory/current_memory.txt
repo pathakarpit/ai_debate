@@ -1,0 +1,30 @@
+# LONG-TERM DEBATE MEMORY
+
+## TOPIC
+Capitalism is needed for a fair world
+
+## CENTRAL QUESTION
+Is capitalism necessary for achieving a fair world, and if so, under what conditions?
+
+## SPEAKER 1 — FOR
+
+## SPEAKER 2 — AGAINST
+
+## MAJOR REBUTTALS
+- 
+
+## CONCESSIONS
+- 
+- 
+
+## UNRESOLVED QUESTIONS
+- Whether blockchain-based DAOs can effectively address the root causes of social and economic inequality without relying solely on technological tools.
+
+## EVIDENCE STATUS
+- Studies show that participatory governance can lead to fairer outcomes in capitalism. | Status: ASSERTED_UNSUPPORTED
+- Studies show that time-weighted token dynamics can reconfigure the cost of acting against long-term goals, aligning private incentives with collective temporal horizons. | Status: ASSERTED_UNSUPPORTED
+
+## IMPORTANT DISTINCTIONS
+- Distinction between immediate incentives and long-term sustainability is not merely tweaked but reconfigured through time-weighted token dynamics.
+
+## TOPIC DRIFT

@@ -1,0 +1,35 @@
+{
+    "topic": "Capitalism is needed for a fair world",
+    "central_question": "Is capitalism necessary for achieving a fair world, and if so, under what conditions?",
+    "round": 10,
+    "current_speaker": null,
+    "round_status": "complete",
+    "speaker_1": {
+        "name": "Speaker 1",
+        "model": "qwen3:8b",
+        "position": "FOR",
+        "responses": 10
+    },
+    "speaker_2": {
+        "name": "Speaker 2",
+        "model": "llama3.1:latest",
+        "position": "AGAINST",
+        "responses": 10
+    },
+    "memory": {
+        "version": 2,
+        "last_updated_round": 10
+    },
+    "statistics": {
+        "total_model_calls": 22,
+        "successful_calls": 22,
+        "failed_calls": 0,
+        "speaker_1_calls": 10,
+        "speaker_2_calls": 10,
+        "memory_calls": 2,
+        "successful_memory_updates": 2,
+        "failed_memory_updates": 0
+    },
+    "started_at": "2026-09-02T12:47:30.490299",
+    "last_updated": "2026-09-02T12:53:19.082070"
+}
